@@ -1,10 +1,11 @@
-# jekyll-landing-boilerplate
+# Jekyll Boilerplate
 
 ## Spec to build an efficient boilerplate to build landing page in one hour
-
-#### For this efficiency we use Jekyll (static site generator)
+I was tired of each time cleaning and doing a basic setup before starting a jekyll project (landing page, e-commerce, blog...)
+This repo aim to avoid doing the same things over and over !!!
 
 ## Spec flow to build it :
+
 ### First step : initialize the jekyll default config : 
 ```
   gem install bundler jekyll
@@ -17,9 +18,17 @@
 
 # => Now browse to http://localhost:4000
 ```
+###  Then clean it and do a basic setup :
 
+- Then clear all dependencies, packages, do a basic setup of structure with no pages etc....
+- They to have as few constraints as possible 
+- Clone it and add your personalisations !
 
 ## Landing page boilerplate idea :
+https://github.com/emilbaehr/automatic-app-landing-page
+</br>
+https://github.com/HugoGiraudel/jekyll-boilerplate
+</br>
 https://github.com/swcool/landing-page-theme
 </br>
 https://github.com/jeromelachaud/freelancer-theme/

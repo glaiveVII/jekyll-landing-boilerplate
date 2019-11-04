@@ -9,14 +9,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 
+# Information About Yourself
+your_name                                 : Julien Pelegri
+your_link                                 :
+your_city                                 : Paris
+email_address                             :
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           :
+youtube_username                          :
+
+
+app_icon                                  : # assets/appicon.png
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
 # Sass settings
 sass:
-  add_charset: true
-  sass_dir: assets/sass
   style: :compressed
 
 # Build settings
@@ -35,3 +48,8 @@ exclude:
   - README.md
   - CNAME
   - assets/sass
+  - LICENSE
+
+
+# Markdown rendering
+markdown: kramdown

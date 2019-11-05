@@ -36,6 +36,8 @@ https://github.com/jeromelachaud/freelancer-theme/
 https://github.com/tachyons-css/jekyll-tachyons
 </br>
 https://github.com/jeromecoupe/jekyllstyleguide
+</br>
+https://github.com/quartzmo/email-landing-page
 
 ## Jekyll blog or other idea :
 https://github.com/danurbanowicz/jekyll-netlify-boilerplate
